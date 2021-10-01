@@ -1,22 +1,11 @@
-
 Offsets:
+uWorld: 0x9ca73b0
+GoObjects: 0x9ab9848
 
-uWorld: 0x9c1f3f0
 
-GoObjects: 0x9a35cb0
+Offsets Changed:
+GameInstance:  0x188
+Levels:  0x140
 
-LineOfSightTo: 0xffffffff8f9d0cb2
 
-ProjectionWorldToScreen 0xffffffff8e90586a
-
-FortniteFree 0x14a1dc6
-
-CalculateShot 0x584282e
-
-GetNameByIndex 0xffffffff8a0c90cf
-
-GetBoneMatrix 0xffffffff91836c59
-
-CalculateSpread 0xffffffff93747de2
-
-SpreadCaller 0x2581bb6c
+// 18.10 
